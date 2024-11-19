@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "376659557773",
+    "project_id": "internshala-assignment-b7390",
+    "storage_bucket": "internshala-assignment-b7390.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376659557773:android:6490ecf537899b9b4251c4",
+        "android_client_info": {
+          "package_name": "com.example.internshalaassignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_OJdBTtcNoa1JXz11tKanHOqBtY-IXXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
